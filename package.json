@@ -1,0 +1,26 @@
+{
+  "name": "automationpractice-cypress",
+  "version": "1.0.0",
+  "description": "Just for fun",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joseAlexis/automationpractice-cypress.git"
+  },
+  "keywords": [
+    "cypress",
+    "automation"
+  ],
+  "author": "Jose A. Bolanos B.",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joseAlexis/automationpractice-cypress/issues"
+  },
+  "homepage": "https://github.com/joseAlexis/automationpractice-cypress#readme",
+  "dependencies": {
+    "cypress": "^6.4.0"
+  }
+}
